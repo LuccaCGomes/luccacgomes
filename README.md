@@ -1,4 +1,4 @@
-# Hello there! Meu nome é Lucca
+# Hello there!
 
 <div>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LuccaCGomes&show_icons=true&theme=dark&show=reviews">
